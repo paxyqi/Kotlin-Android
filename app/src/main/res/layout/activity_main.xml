@@ -8,10 +8,10 @@
         tools:context=".MainActivity">
 
     <TextView
-            android:layout_width="190dp"
+            android:layout_width="170dp"
             android:layout_height="40dp"
             android:text="Hello My Hunni"
-            android:textSize="28dp"
+            android:textSize="23dp"
             android:textColor="@color/title"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
